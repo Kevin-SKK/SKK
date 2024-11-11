@@ -1,0 +1,15 @@
+2023-05-11 17:07:05,344 - [INFO] - json_server.py[9]: ~~~~~日志开启成功~~~~~
+2023-05-11 17:07:05,345 - [INFO] - json_server.py[13]: 获取到了需要处理的文件的名字['/Users/xiechen/Desktop/郑州303/day02/代码/01_josn数据/x01', '/Users/xiechen/Desktop/郑州303/day02/代码/01_josn数据/x00', '/Users/xiechen/Desktop/郑州303/day02/代码/01_josn数据/x02']
+2023-05-11 17:07:05,428 - [INFO] - mysql_util.py[29]: 创建链接127.0.0.1:3306//root, 成功!!!
+2023-05-11 17:07:05,428 - [INFO] - mysql_util.py[49]: 切换了数据库metadata
+2023-05-11 17:07:05,429 - [WARNING] - mysql_util.py[142]: 在metadata已经存在了数据表file_check,故没有进行数据表的创建
+2023-05-11 17:09:03,545 - [INFO] - json_server.py[9]: ~~~~~日志开启成功~~~~~
+2023-05-11 17:09:03,546 - [INFO] - json_server.py[13]: 获取到了需要处理的文件的名字['/Users/xiechen/Desktop/郑州303/day02/代码/01_josn数据/x01', '/Users/xiechen/Desktop/郑州303/day02/代码/01_josn数据/x00', '/Users/xiechen/Desktop/郑州303/day02/代码/01_josn数据/x02']
+2023-05-11 17:09:03,650 - [INFO] - mysql_util.py[29]: 创建链接127.0.0.1:3306//root, 成功!!!
+2023-05-11 17:09:03,652 - [INFO] - mysql_util.py[49]: 切换了数据库metadata
+2023-05-11 17:09:03,656 - [WARNING] - mysql_util.py[142]: 在metadata已经存在了数据表file_check,故没有进行数据表的创建
+2023-05-11 17:11:42,128 - [INFO] - json_server.py[10]: ~~~~~日志开启成功~~~~~
+2023-05-11 17:11:42,130 - [INFO] - json_server.py[14]: 获取到了需要处理的文件的名字['/Users/xiechen/Desktop/郑州303/day02/代码/01_josn数据/x01', '/Users/xiechen/Desktop/郑州303/day02/代码/01_josn数据/x00', '/Users/xiechen/Desktop/郑州303/day02/代码/01_josn数据/x02']
+2023-05-11 17:11:42,272 - [INFO] - mysql_util.py[29]: 创建链接127.0.0.1:3306//root, 成功!!!
+2023-05-11 17:11:42,274 - [INFO] - mysql_util.py[49]: 切换了数据库metadata
+2023-05-11 17:11:42,278 - [WARNING] - mysql_util.py[142]: 在metadata已经存在了数据表file_check,故没有进行数据表的创建
